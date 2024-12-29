@@ -1,0 +1,44 @@
+Before submitting this file, make sure that there are no more TODO
+placeholders remaining in the file (and remove this comment too).
+
+Warmup
+------
+
+Q1. The display of the Queue in the debugger uses the labels `front` and `back` to mark the two ends of the queue. How are the contents labeled when the Queue contains only one element?
+A1. TODO
+
+Q2. For which type of inputs does the function go into an infinite loop?
+A2. TODO
+
+Q3. Show your edited code for `duplicateNegatives` that fixes the problem with the infinite loop.
+A3. TODO
+
+Q4. What is the better fix to `sumStack` that corrects the bug?
+A4. TODO
+
+
+Maze
+----
+Q5. After you have written your test cases, describe your testing strategy to confirm that your `validatePath` operates as intended. How confident are you that it works correctly in all cases?
+A5. TODO
+
+Q6. Most students are sold on the benefit of the fancy features provided by `Vector`, `Grid`, and `Set` but the ADT skeptics may question the value of `Stack` and `Queue` ADTs, seeing them as nothing more than a restricted `Vector`. Make your best argument to convince them of the benefits these ADTS have over `Vector`.
+A6. TODO
+
+
+Search Engine
+-------------
+Q7. List the contents of the inverted index built from the `res/tiny.txt` database file.
+A7. TODO
+
+
+Beyond Algorithmic Analysis
+---------------------------
+Q8. In a short paragraph, describe a real or plausible scenario in which reworking an algorithm to improve its efficiency might benefit Earth's environment or humanity as a whole. Include your thoughts on how a software engineer working on this piece of code might identify such potential benefits and take them into consideration when designing the code.
+A8. TODO
+
+Q9. According to the contract that IBM struck with the state of Indiana, the criteria for optimization were improving efficiency of the overall welfare system and reducing fraud. Criteria for reducing wait times and wrongful denials were not included.  However, wrongfully denying benefits has a huge negative impact on the citizens who rely on the system.  If criteria like minimizing wrongful denials were not included in the contract, should engineers have included them in their optimization algorithm?  Why or why not?
+A9. TODO
+
+Q10. Imagine that after completing CS106B you are hired at IBM as an engineer working on this system. How might you have approached designing and setting the goals of this system?  How might you apply algorithmic analysis tools to build a system that achieved the desired goals? Could you do so in a way that avoids the severe negative impacts on users of the system that are outlined in the case study?
+A10. TODO
